@@ -1,0 +1,6 @@
+{
+	"appId": "com.kwikify.app",
+	"appName": "Kwikifyapp",
+	"webDir": "dist/angular-build",
+	"bundledWebRuntime": false
+}
